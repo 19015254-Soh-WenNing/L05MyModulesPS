@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="tvC322">C322 (Data Centre and Cloud Management)\n</string>
+    <string name="tvC346">C346 (Mobile App Development)\n</string>
+    <string name="tvC382">C382 (IT Service Delivery)</string>
+    <string name="btnBack">Back</string>
+    <string name="tvTitle">View a Module: \n</string>
+</resources>
